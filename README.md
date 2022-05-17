@@ -115,14 +115,19 @@ df5["yf_ModNegative"].plot(kind = 'hist')
 df5["yf_HighNegative"].plot(kind = 'hist')
 
 # OUPUT:
-![output](.//t1.png)
-![output](.//t2.png)
-![output](.//t3.png)
-![output](.//t4.png)
-![output](.//t5.png)
-![output](.//t6.png)
-![output](.//t7.png)
-![output](.//t8.png)
-![output](.//t9.png)
-![output](.//t10.png)
-![output](.//t11.png)
+
+![output](./img1.jpeg)
+![output](./img2.jpeg)
+![output](./img3.jpeg)
+![output](./img4.jpeg)
+![output](./img5.jpeg)
+![output](./img6.jpeg)
+![output](./img7.jpeg)
+![output](./img8.jpeg)
+![output](./img9.jpeg)
+![output](./img10.jpeg)
+![output](./img12.jpeg)
+![output](./img13.jpeg)
+
+# Result:
+The various feature transformation techniques has been performed on the given datasets and the data are saved to a file.
